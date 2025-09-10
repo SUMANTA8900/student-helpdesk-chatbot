@@ -1,4 +1,4 @@
-i have some is it correct 
+
 # Student Helpdesk Chatbot — Full Stack (React + Flask + Dataset)
 👉 Problem: Students repeatedly ask the same queries (admissions, exams, campus info), overloading staff.
 
@@ -7,7 +7,7 @@ i have some is it correct
 - **Frontend:** React + Vite + Tailwind
 - **Backend:** Flask (Python), TF‑IDF FAQ retrieval
 - **Dataset:** `backend/faq_dataset.json` (easy to edit/extend)
-
+🔗 Live Demo:https://student-chatbot-service-895798712651.asia-south1.run.app/
 ## 1) Quick Start
 
 ### Backend
